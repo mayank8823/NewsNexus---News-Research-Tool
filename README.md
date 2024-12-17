@@ -18,7 +18,7 @@ NewsNexus is a user-friendly news research tool designed for effortless informat
 1.Clone this repository to your local machine using:
 
 ```bash
-  git clone https://github.com/codebasics/langchain.git
+  https://github.com/mayank8823/NewsNexus---News-Research-Tool.git
 ```
 2.Navigate to the project directory:
 
